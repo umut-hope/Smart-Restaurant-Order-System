@@ -1,5 +1,7 @@
 # Smart Restaurant Order System — Report Content
 
+![UML class diagram of the order model and discount strategies](docs/screenshot.webp)
+
 ---
 
 ## APPLICANT INFORMATION
